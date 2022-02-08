@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning computer science at Georgia State University, where I focus on on BDP and ML.
 - 💞️ I’m looking to collaborate on any of your amazing projects!
 - 📫 You can reach me at mjr.dev.studios@gmail.com
+- 💻 This is my website: https://mjrtech.herokuapp.com/
 
 <!---
 Mroussell/Mroussell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
